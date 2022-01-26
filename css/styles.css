@@ -9,7 +9,9 @@ body {
   text-align: center;
   line-height: 0.5;
 }
-
+title {
+  text-align: center;
+}
 
 /* --------GRID WORK ---------*/
 @media all and (max-width: 500px) {
